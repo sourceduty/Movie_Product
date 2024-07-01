@@ -22,6 +22,8 @@ The characters and objects that 'Movie Product' can create include those from wo
 [History Product](https://github.com/sourceduty/History_Product)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Animal Product](https://github.com/sourceduty/Animal_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
