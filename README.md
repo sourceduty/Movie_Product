@@ -1,6 +1,6 @@
 ![Bond](https://github.com/sourceduty/Movie_Product/assets/123030236/9634c0cc-671d-4c46-9d2e-6434fa6265a8)
 
-> Use DALLE-3 to create a product box image inspired by videos and movies.
+> Use DALLE-3 to create product packaging inspired by characters, objects and events in videos and movies.
 
 #
 
