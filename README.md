@@ -26,6 +26,8 @@ The characters and objects that 'Movie Product' can create include those from wo
 [Animal Product](https://github.com/sourceduty/Animal_Product)
 <br>
 [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
+<br>
+[Character Product](https://github.com/sourceduty/Character_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
