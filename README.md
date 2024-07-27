@@ -28,6 +28,8 @@ The characters and objects that 'Movie Product' can create include those from wo
 [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 <br>
 [Character Product](https://github.com/sourceduty/Character_Product)
+<br>
+[Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
