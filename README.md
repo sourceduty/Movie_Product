@@ -30,6 +30,8 @@ The characters and objects that 'Movie Product' can create include those from wo
 [Character Product](https://github.com/sourceduty/Character_Product)
 <br>
 [Movie Prop Design](https://github.com/sourceduty/Movie_Prop_Design)
+<br>
+[Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
