@@ -11,11 +11,8 @@
 The characters and objects that 'Movie Product' can create include those from works that are in the public domain, such as characters from very old literature, myths, or fairy tales. Examples include Sherlock Holmes, Dracula, and Cinderella. Additionally, 'Movie Product' can create realistic objects that are not tied to any specific brand or movie. These can range from futuristic cars to medieval swords or magic wands. By focusing on these categories, 'Movie Product' ensures that the images generated are both legally permissible and creatively versatile, providing a broad spectrum of possibilities for users.
 
 #
-
 ![Wade Watts - Ready Player One - Fortnite](https://github.com/sourceduty/Movie_Product/assets/123030236/00e7aeef-4361-4fcf-8555-7258ab75ff11)
-
 #
-
 ![Bond](https://github.com/sourceduty/Movie_Product/assets/123030236/9634c0cc-671d-4c46-9d2e-6434fa6265a8)
 
 #
